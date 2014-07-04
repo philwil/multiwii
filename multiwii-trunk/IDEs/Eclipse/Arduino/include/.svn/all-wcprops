@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/include
+END
+Udp.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/include/Udp.h
+END
+USBDesc.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/include/USBDesc.h
+END
+new.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/include/new.h
+END
+wiring_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/include/wiring_private.h
+END
+Stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/include/Stream.h
+END
+Print.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/include/Print.h
+END
+WString.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/include/WString.h
+END
+HardwareSerial.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/include/HardwareSerial.h
+END
+Arduino.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/include/Arduino.h
+END
+USBCore.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/include/USBCore.h
+END
+Server.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/include/Server.h
+END
+IPAddress.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/include/IPAddress.h
+END
+Client.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/include/Client.h
+END
+Printable.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/include/Printable.h
+END
+USBAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/include/USBAPI.h
+END
+WCharacter.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/include/WCharacter.h
+END
+binary.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/include/binary.h
+END
+Platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/include/Platform.h
+END

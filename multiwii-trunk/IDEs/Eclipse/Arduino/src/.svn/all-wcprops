@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/src
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/src/main.cpp
+END
+CDC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/src/CDC.cpp
+END
+new.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/src/new.cpp
+END
+Stream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/src/Stream.cpp
+END
+wiring_shift.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/src/wiring_shift.c
+END
+wiring_digital.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/src/wiring_digital.c
+END
+Print.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/src/Print.cpp
+END
+WString.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/src/WString.cpp
+END
+HardwareSerial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/src/HardwareSerial.cpp
+END
+wiring.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/src/wiring.c
+END
+USBCore.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/src/USBCore.cpp
+END
+HID.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/src/HID.cpp
+END
+Tone.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/src/Tone.cpp
+END
+WInterrupts.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/src/WInterrupts.c
+END
+wiring_pulse.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/src/wiring_pulse.c
+END
+IPAddress.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/src/IPAddress.cpp
+END
+wiring_analog.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/src/wiring_analog.c
+END
+WMath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/src/WMath.cpp
+END

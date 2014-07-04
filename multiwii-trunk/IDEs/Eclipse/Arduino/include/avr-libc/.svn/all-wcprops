@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/include/avr-libc
+END
+sectionname.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/include/avr-libc/sectionname.h
+END
+stdlib_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/include/avr-libc/stdlib_private.h
+END

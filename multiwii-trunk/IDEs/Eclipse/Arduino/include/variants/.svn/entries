@@ -1,0 +1,49 @@
+10
+
+dir
+1683
+http://multiwii.googlecode.com/svn/trunk/IDEs/Eclipse/Arduino/include/variants
+http://multiwii.googlecode.com/svn
+
+
+
+2013-07-06T01:24:35.115823Z
+1520
+clough42@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+02679b44-d973-9852-f2fa-63770883b36c
+
+standard
+dir
+
+leonardo
+dir
+
+robot_motor
+dir
+
+robot_control
+dir
+
+eightanaloginputs
+dir
+
+mega
+dir
+
+micro
+dir
+

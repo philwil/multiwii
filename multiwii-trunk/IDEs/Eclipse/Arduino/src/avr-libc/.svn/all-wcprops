@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/src/avr-libc
+END
+sectionname.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/src/avr-libc/sectionname.h
+END
+stdlib_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/src/avr-libc/stdlib_private.h
+END
+realloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/src/avr-libc/realloc.c
+END
+malloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1528/trunk/IDEs/Eclipse/Arduino/src/avr-libc/malloc.c
+END

@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/1682/trunk/MultiWii_shared
+END
+EEPROM.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1516/trunk/MultiWii_shared/EEPROM.h
+END
+Sensors.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1682/trunk/MultiWii_shared/Sensors.cpp
+END
+GPS.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1666/trunk/MultiWii_shared/GPS.h
+END
+RX.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1648/trunk/MultiWii_shared/RX.h
+END
+IMU.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1623/trunk/MultiWii_shared/IMU.h
+END
+Output.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1639/trunk/MultiWii_shared/Output.cpp
+END
+Protocol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1667/trunk/MultiWii_shared/Protocol.cpp
+END
+Sensors.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1609/trunk/MultiWii_shared/Sensors.h
+END
+LCD.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1681/trunk/MultiWii_shared/LCD.cpp
+END
+MultiWii.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1681/trunk/MultiWii_shared/MultiWii.cpp
+END
+def.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1681/trunk/MultiWii_shared/def.h
+END
+Output.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1516/trunk/MultiWii_shared/Output.h
+END
+MultiWii.ino
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1563/trunk/MultiWii_shared/MultiWii.ino
+END
+Protocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1548/trunk/MultiWii_shared/Protocol.h
+END
+LCD.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1536/trunk/MultiWii_shared/LCD.h
+END
+MultiWii.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1681/trunk/MultiWii_shared/MultiWii.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1681/trunk/MultiWii_shared/types.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1681/trunk/MultiWii_shared/config.h
+END
+Alarms.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1567/trunk/MultiWii_shared/Alarms.cpp
+END
+Serial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1664/trunk/MultiWii_shared/Serial.cpp
+END
+Serial.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1548/trunk/MultiWii_shared/Serial.h
+END
+Alarms.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1544/trunk/MultiWii_shared/Alarms.h
+END
+EEPROM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1559/trunk/MultiWii_shared/EEPROM.cpp
+END
+RX.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1664/trunk/MultiWii_shared/RX.cpp
+END
+GPS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1666/trunk/MultiWii_shared/GPS.cpp
+END
+IMU.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1679/trunk/MultiWii_shared/IMU.cpp
+END
+CREDITS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1350/trunk/MultiWii_shared/CREDITS.txt
+END
