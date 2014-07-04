@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/48/trunk/I2C_GPS_NAV
+END
+PIDCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/39/trunk/I2C_GPS_NAV/PIDCtrl.h
+END
+twiMW.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/41/trunk/I2C_GPS_NAV/twiMW.c
+END
+WireMW.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/41/trunk/I2C_GPS_NAV/WireMW.cpp
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/40/trunk/I2C_GPS_NAV/config.h
+END
+LeadFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/40/trunk/I2C_GPS_NAV/LeadFilter.cpp
+END
+registers.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/39/trunk/I2C_GPS_NAV/registers.h
+END
+twiMW.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/41/trunk/I2C_GPS_NAV/twiMW.h
+END
+PICtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/39/trunk/I2C_GPS_NAV/PICtrl.cpp
+END
+I2C_GPS_NAV.ino
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/41/trunk/I2C_GPS_NAV/I2C_GPS_NAV.ino
+END
+u-blox-config.ublox.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/I2C_GPS_NAV/u-blox-config.ublox.txt
+END
+WireMW.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/41/trunk/I2C_GPS_NAV/WireMW.h
+END
+LeadFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/39/trunk/I2C_GPS_NAV/LeadFilter.h
+END
+PIDCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/39/trunk/I2C_GPS_NAV/PIDCtrl.cpp
+END
+PICtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/39/trunk/I2C_GPS_NAV/PICtrl.h
+END
